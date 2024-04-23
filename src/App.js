@@ -5,6 +5,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        {/* here is the wagmi button for connection */}
         <w3m-button />
       </header>
     </div>
